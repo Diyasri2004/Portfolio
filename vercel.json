@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/portfolio final edit.html"
+    }
+  ],
+  "cleanUrls": true
+}
