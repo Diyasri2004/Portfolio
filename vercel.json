@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/portfolio final edit.html"
+      "destination": "/Portfolio.html"
     }
   ],
   "cleanUrls": true
